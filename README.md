@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Ashwin AS
 ### 🧠 Specializing in Web, Mobile, and AI/ML Engineering
 
 I am a software engineer passionate about building intelligent, scalable, and user-centric applications. With a strong background in full-stack development, I am currently focusing on pushing the boundaries of what's possible with **Artificial Intelligence and Machine Learning**, bridging the gap between cutting-edge models and real-world user experiences.
@@ -26,14 +26,6 @@ I am a software engineer passionate about building intelligent, scalable, and us
 
 ### 📈 Projects (Highlighting the Tech Stack)
 
-1.  **[Project Name 1]:** *A concise description of the project and its core functionality.*
-    * **Tech Stack:** React.js, Python, PyTorch, PostgreSQL.
-
-2.  **[Project Name 2]:** *Briefly explain the problem solved by this mobile or web app.*
-    * **Tech Stack:** Flutter, Firebase, TensorFlow Lite.
-
-3.  **[Project Name 3]:** *Another key project showcasing your unique skills.*
-    * **Tech Stack:** React Native, Node.js, MongoDB.
 
 *(Replace these placeholders with links to your best repositories and brief summaries of what they do!)*
 
@@ -43,6 +35,5 @@ I am a software engineer passionate about building intelligent, scalable, and us
 
 I'm always open to discussing new ideas, collaborating on interesting projects, or just chatting about the latest advancements in tech and AI.
 
-* [LinkedIn](YOUR_LINKEDIN_URL)
-* [Portfolio / Website](YOUR_PORTFOLIO_URL)
-* [Email](mailto:your.email@example.com)
+* [LinkedIn] https://www.linkedin.com/in/ashwin-as-5126932a2/
+* [Email](ashwinas227@gmail.com)
