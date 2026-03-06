@@ -24,12 +24,6 @@ I am a software engineer passionate about building intelligent, scalable, and us
 
 ---
 
-### 📈 Projects (Highlighting the Tech Stack)
-
-
-*(Replace these placeholders with links to your best repositories and brief summaries of what they do!)*
-
----
 
 ### 🤝 Connect with Me
 
