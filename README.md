@@ -43,5 +43,5 @@ I am a software engineer passionate about building intelligent, scalable, and us
 
 I'm always open to discussing new ideas, collaborating on interesting projects, or just chatting about the latest advancements in tech and AI.
 
-* [LinkedIn] https://www.linkedin.com/in/ashwin-as-5126932a2/
+* [LinkedIn] (https://www.linkedin.com/in/ashwin-as-5126932a2/)
 * [Email](ashwinas227@gmail.com)
